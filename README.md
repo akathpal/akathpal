@@ -9,6 +9,13 @@ I'm **Abhishek Kathpal**, a robotics engineer and co-founder of Inception Roboti
 - 👯 I’m open to collaborate on **open-source robotics projects**
 - 💬 Ask me about **ROS, robotics simulations, and AI**
 
+## 📊 Stats
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=akathpal&layout=compact&show_icons=true&theme=radical&count_private=true&langs_count=4&include_all_commits=true" />
+ <img alt="GitHub Stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akathpal&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide=issues&hide_rank=true" />
+</p>
+
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/akathpal/)
